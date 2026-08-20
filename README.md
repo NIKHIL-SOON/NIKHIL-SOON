@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Nikhil Moolya 👋
 
-<!--
-**NIKHIL-SOON/NIKHIL-SOON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS & AI undergraduate passionate about building responsive web applications, high-performance backend systems, and AI-driven products.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On
+* 🛠️ Building full-stack web applications with **React**, **Node.js**, and exploring **Go**.
+* 🤖 Integrating LLMs and intelligent metrics into interactive dashboards (e.g., *Spendly*, *Gringotts AI*).
+* 🎯 Sharpening problem-solving skills in **Data Structures & Algorithms** using Java.
+
+---
+
+### 💻 Tech Stack
+
+* **Languages:** JavaScript (ES6+), Java, Go, HTML5, CSS3
+* **Frontend:** React, Tailwind CSS
+* **Backend & Runtime:** Node.js, Express
+* **Tools & Platforms:** Git, GitHub, REST APIs, Gemini API
+
+---
+
+### 🏆 Highlights
+* 🥉 **3rd Place Hackathon Winner** — Built and pitched functional full-stack MVPs under tight deadlines.
+* ⚡ Active participant in hackathons, handling rapid frontend engineering and UI architecture.
+
+---
+
+### 📬 Connect With Me
+* **LinkedIn:** [linkedin.com/in/nikhilmoolya](https://linkedin.com/in/nikhilmoolya)
+* **Email:** nikhilmoolya2029@gmail.com
